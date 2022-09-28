@@ -4,15 +4,16 @@
 <h1 align="center">Hola 👋, Soy Florencia</h1>
 
 
-<h3 align="center">Tengo 34 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y en busqueda de mi primer empleo en el mundo IT.</h3>
+<h3 align="center">Tengo 34 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y buscando mi primer empleo en el mundo IT. Me gustaria insertarme en un equipo de trabajo donde pueda seguir desarrollando mis aptitudes e intercambiar experiencias. :) </h3>
+
+Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MYSQL / SQL
+
+🔭 Actualmente estoy iniciando un proyecto en grupo a largo plazo.
+🌱 Estoy aprendiendo Next.
+💬 Si queres saber mas de mi
+📫 Contactame al: +54 9 1155833569 o por mail: florencialapadatoffdev@gmail.com / florencialapadatoff@gmail.com
 
 
-
-
-
-- 💬 **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
-
-- 📫 Contacto **florencialapadatoff@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/florlap/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/florlap/" height="30" width="40" /></a>
