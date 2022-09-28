@@ -6,24 +6,8 @@
 
 <h3 align="center">Tengo 34 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y en busqueda de mi primer empleo en el mundo IT.</h3>
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: [ "PostgreSQL"],
-   },
-   
-};
 
-```
+
 
 
 - 💬 **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
