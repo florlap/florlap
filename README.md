@@ -11,7 +11,7 @@ Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL
 🔭 Actualmente estoy iniciando un proyecto en grupo a largo plazo.
 🌱 Estoy aprendiendo Next.
 💬 Si queres saber mas de mi
-📫 Contactame al: +54 9 1155833569 o por mail: florencialapadatoffdev@gmail.com / florencialapadatoff@gmail.com
+📫 Contactame por mail:  florencialapadatoff@gmail.com / florencialapadatoffdev@gmail.com
 
 
 
