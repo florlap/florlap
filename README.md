@@ -9,7 +9,7 @@
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MYSQL / SQL
 
 🔭 Actualmente estoy iniciando un proyecto en grupo a largo plazo.
-🌱 Estoy aprendiendo Next.
+🌱 Estoy mejorando mi nivel de ingles.
 💬 Si queres saber mas de mi
 📫 Contactame por mail:  florencialapadatoff@gmail.com / florencialapadatoffdev@gmail.com
 
