@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, Soy Florencia</h1>
 
 
-<h3 align="center">Tengo 34 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y buscando mi primer empleo en el mundo IT. Me gustaria insertarme en un equipo de trabajo donde pueda seguir desarrollando mis aptitudes e intercambiar experiencias. :) </h3>
+<h3 align="center">Tengo 35 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y buscando mi primer empleo en el mundo IT. Me gustaria insertarme en un equipo de trabajo donde pueda seguir desarrollando mis aptitudes e intercambiar experiencias. :) </h3>
 
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MYSQL / SQL
 
