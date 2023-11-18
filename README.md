@@ -4,11 +4,11 @@
 <h1 align="center">Hola 👋, Soy Florencia</h1>
 
 
-<h3 align="center">Tengo 35 años soy de Buenos Aires, Argentina. Estoy recientemente graduada del bootcamp Henry, y buscando mi primer empleo en el mundo IT. Me gustaria insertarme en un equipo de trabajo donde pueda seguir desarrollando mis aptitudes e intercambiar experiencias. :) </h3>
+<h3 align="center">Tengo 35 años soy de Buenos Aires, Argentina. Actualmente estoy en busqueda de mi primer trabajo como desarrolladora web. Me gustaria insertarme en un equipo de trabajo donde pueda seguir desarrollando mis aptitudes e intercambiar experiencias. :) </h3>
 
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MYSQL / SQL
 
-🔭 Actualmente estoy iniciando un proyecto en grupo a largo plazo.
+🔭 Perfeccionandome dia a dia. <i> TEAM PLAYER</i> 
 🌱 Estoy mejorando mi nivel de ingles.
 💬 Si queres saber mas de mi
 📫 Contactame por mail:  florencialapadatoff@gmail.com / florencialapadatoffdev@gmail.com
